@@ -1,14 +1,14 @@
 .forms{
-margin-left: 30%;
-margin-right: 42%;
-margin-top: 10%;}
+margin-left: 35%;
+margin-right: 35%;
+margin-top: 15%;
+}
 
 .form-label{
     font-weight: bold;
     font-size: large;
 }
-.btn{
+.btn-primary.btn{
     padding-left: 42%;
     padding-right: 42%;
 }
-
