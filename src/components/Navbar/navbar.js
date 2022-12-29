@@ -30,7 +30,7 @@ function navbar() {
         </li>
       </ul>
       <form class="d-flex" role="search">
-        <button class="btn btn-outline-success" type="submit">Login</button>
+        <a href="/login" class="btn btn-outline-primary" type="submit">Login</a>
       </form>
     </div>
   </div>

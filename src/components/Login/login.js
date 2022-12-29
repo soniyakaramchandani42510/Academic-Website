@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import './login.css';
 import {useState} from 'react';
 import axios from "axios";
-import scsLogo from '../Assets/scs-logo.png'
+import scsLogo from '../../../src/Assets/scs-logo.png'
 
 
 
@@ -36,7 +36,7 @@ function Login() {
 
   return (
     <>
-    <img src={scsLogo} alt="Student Counselling Services Logo" />
+    <img src={scsLogo} alt="Student Counselling Services Logo" className='logo' />
     <Form className="forms">
       <h1 className='text-center'>LOGIN</h1>
       <br />

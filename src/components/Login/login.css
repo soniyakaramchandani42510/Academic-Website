@@ -12,3 +12,15 @@ margin-top: 10%;
     padding-left: 42%;
     padding-right: 42%;
 }
+.logo{
+    vertical-align: middle;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    height: 125px;
+    width: 125px;
+    /* background: url(TRbanner.gif) no-repeat; */
+    text-indent: -999em;
+    text-decoration: none;
+}
